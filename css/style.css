@@ -1,0 +1,23 @@
+#pageTitle{
+    background-color:tomato;
+}
+.card {
+    border: 1px, lightblue;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 30%;
+    margin: auto;
+    text-align: center;
+}
+
+.title {
+   border: 1px, lightgray;
+}
+
+.avail {
+    background-color: darkgray;
+    text-decoration-color: yellow;
+}
+
+.specs {
+    border-top: lightgray, 1px;
+}
