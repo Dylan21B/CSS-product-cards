@@ -21,3 +21,9 @@
 .specs {
     border-top: lightgray, 1px;
 }
+
+article{
+    display:inline-block;
+    text-align: center;
+    vertical-align: bottom;
+}
